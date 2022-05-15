@@ -1,0 +1,17 @@
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\bin\Debug\net6.0-windows\Proyecto1.exe
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\bin\Debug\net6.0-windows\Proyecto1.deps.json
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\bin\Debug\net6.0-windows\Proyecto1.runtimeconfig.json
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\bin\Debug\net6.0-windows\Proyecto1.dll
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\bin\Debug\net6.0-windows\Proyecto1.pdb
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.Form1.resources
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.csproj.GenerateResource.cache
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.AssemblyInfo.cs
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.dll
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\refint\Proyecto1.dll
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.pdb
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\Proyecto1.genruntimeconfig.cache
+C:\Users\Leandro\Documents\Nuevorepositorio2022\Proyecto1\Proyecto1\obj\Debug\net6.0-windows\ref\Proyecto1.dll
