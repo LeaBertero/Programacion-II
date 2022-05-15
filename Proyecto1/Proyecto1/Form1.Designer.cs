@@ -43,6 +43,7 @@
             this.radioButton7 = new System.Windows.Forms.RadioButton();
             this.label2 = new System.Windows.Forms.Label();
             this.BtVisualizar = new System.Windows.Forms.Button();
+            this.BtSalir = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -133,12 +134,10 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Checked = true;
             this.radioButton1.Location = new System.Drawing.Point(24, 46);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(42, 19);
             this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
             this.radioButton1.Text = "OK";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.CheckedChanged += new System.EventHandler(this.tipoDeBoton_CheckedChange);
@@ -194,12 +193,10 @@
             // radioButton7
             // 
             this.radioButton7.AutoSize = true;
-            this.radioButton7.Checked = true;
             this.radioButton7.Location = new System.Drawing.Point(22, 80);
             this.radioButton7.Name = "radioButton7";
             this.radioButton7.Size = new System.Drawing.Size(92, 19);
             this.radioButton7.TabIndex = 6;
-            this.radioButton7.TabStop = true;
             this.radioButton7.Text = "Information";
             this.radioButton7.UseVisualStyleBackColor = true;
             this.radioButton7.CheckedChanged += new System.EventHandler(this.tipoDeIcono_CheckedChanged);
@@ -228,12 +225,26 @@
             this.BtVisualizar.UseVisualStyleBackColor = true;
             this.BtVisualizar.Click += new System.EventHandler(this.BtVisualizar_Click);
             // 
+            // BtSalir
+            // 
+            this.BtSalir.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.BtSalir.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.BtSalir.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.BtSalir.Location = new System.Drawing.Point(67, 422);
+            this.BtSalir.Name = "BtSalir";
+            this.BtSalir.Size = new System.Drawing.Size(163, 46);
+            this.BtSalir.TabIndex = 5;
+            this.BtSalir.Text = "Salir";
+            this.BtSalir.UseVisualStyleBackColor = true;
+            this.BtSalir.Click += new System.EventHandler(this.BtSalir_Click);
+            // 
             // Form1
             // 
             this.AcceptButton = this.BtVisualizar;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 497);
+            this.Controls.Add(this.BtSalir);
             this.Controls.Add(this.BtVisualizar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.groupBox2);
@@ -267,5 +278,6 @@
         private RadioButton radioButton7;
         private Label label2;
         private Button BtVisualizar;
+        private Button BtSalir;
     }
 }

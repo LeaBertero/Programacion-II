@@ -45,10 +45,9 @@ namespace Proyecto1
             MessageBox.Show("Mensaje a desplegar", "Título de la Ventana", tipoDeBoton, tipoDeIcono);
         }
 
-
-
-
-        
-
+        private void BtSalir_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
